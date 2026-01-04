@@ -25,17 +25,21 @@ CSS3 – Styling and layout
 ## Project Structure
 Perfumy/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── img/
 │   ├── Homem.jpg
 │   ├── royal.jpg
 │   └── org.webp
+
 └── README.md
 
 ## How to Run the Project
 
-link-
+link- https://manosree30.github.io/perfumy-html-website/
 
 ## Preview Sections
 
